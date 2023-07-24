@@ -1,0 +1,96 @@
+
+* {
+    margin: 2px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    padding: 5%;
+    padding-top: 1%;
+}
+
+#SfondoNERO {
+    background-color: rgba(0, 0, 0, 0.473);
+    border-radius: 15px;
+    padding: 10%;
+}
+
+/* ----------------------- */
+
+
+
+
+
+
+header, nav {
+    text-align: center;
+}
+
+
+header {
+    color: rgb(6, 228, 6);
+}
+
+header img {
+    width: 250px;
+}
+
+
+nav {
+    background-color: rgb(6, 228, 6);
+    padding-bottom: 10px;    
+    padding-top: 10px;    
+}
+
+main {
+    color:white;
+}
+
+
+
+section > h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+section {
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+
+h1, h2, h3, h4 {
+    display: inline-block;
+}
+
+
+
+/* Barre delle batterie:  -------------------------------------- */
+#Barra-Batteria-1 {
+    background-color: rgb(238, 157, 6);
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+ 
+}
+
+#Barra-Batteria-2 {
+    background-color: rgb(6, 238, 83);
+    height: 30px;
+    width: 600px;
+    border-radius: 10px;
+ 
+}
+
+#Barra-Batteria-3 {
+    background-color: rgb(204, 38, 9);
+    height: 30px;
+    width: 160px;
+    border-radius: 10px;
+ 
+}
+
+/* ---------------------------------------------------------- */
+
